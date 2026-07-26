@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **SQL,Python,JS,REACT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikolozdokhnadze](https://github.com/nikolozdokhnadze)
+- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 📫 How to reach me **nikushadoxna@gmail.com**
+- 📫 How to reach me **google@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
